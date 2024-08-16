@@ -36,4 +36,4 @@ The final neural network model achieved a high level of accuracy in classifying 
 
 The success of this project highlights the potential of neural networks in medical diagnostics and encourages further exploration into more complex architectures and techniques to push the boundaries of what is possible in automated cancer detection.
 
-The dataset is available in the CSV file Cancer_Classification.csv or at https://www.kaggle.com/datasets/sahilnbajaj/cancer-classification
+The dataset is available at https://www.kaggle.com/datasets/sahilnbajaj/cancer-classification
