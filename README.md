@@ -1,6 +1,6 @@
 # Breast Cancer Classification with Neural Networks
 **Introduction** <br />
-Breast cancer is one of the most prevalent types of cancer worldwide, and early diagnosis is crucial for effective treatment. This project explores the use of neural networks to classify breast cancer as benign or malignant based on various features derived from digitized images of a fine needle aspirate (FNA) of a breast mass. The dataset used in this project, Cancer_Classification.csv, contains features such as mean radius, texture, perimeter, area, and several other measurements that describe the characteristics of the cell nuclei present in the image. <br />
+Breast cancer ranks among the most widespread cancers globally, with early detection being vital for successful treatment outcomes. This project explores the use of neural networks to classify breast cancer as benign or malignant based on various features derived from digitized images of a fine needle aspirate (FNA) of a breast mass. The dataset used in this project, Cancer_Classification.csv, contains features such as mean radius, texture, perimeter, area, and several other measurements that describe the characteristics of the cell nuclei present in the image. <br />
 
 The project aims to build, evaluate, and optimize a neural network model that can accurately classify breast cancer cases. Various techniques such as L2 regularization, dropout, and hyperparameter tuning are employed to enhance the model's performance and robustness. <br />
 
