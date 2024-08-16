@@ -29,7 +29,7 @@ Early and accurate classification of breast cancer is vital for determining the 
 • ROC and Precision-Recall Curves: Plotted to provide insights into the model's performance across different decision thresholds. <br />
 
 **Final Model** <br />
-• The best-performing model, selected based on test accuracy and loss, was saved for future use. This model was fine-tuned with the optimal hyperparameters discovered during the grid search. <br />
+The best-performing model, selected based on test accuracy and loss, was saved for future use. This model was fine-tuned with the optimal hyperparameters discovered during the grid search. <br />
 
 **Findings and Conclusion** <br />
 The final neural network model achieved a high level of accuracy in classifying breast cancer, demonstrating the effectiveness of neural networks in this domain. The combination of L2 regularization and dropout was particularly effective in preventing overfitting, resulting in a model that generalizes well to new data. The project showcases the importance of model optimization techniques in achieving high performance in machine learning tasks. <br />
