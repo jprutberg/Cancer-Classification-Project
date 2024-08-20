@@ -20,9 +20,9 @@ Early and accurate classification of breast cancer is vital for determining the 
 ### Model Development:
 1. Baseline Model: A simple neural network was built and trained to establish a baseline for model performance. The model was evaluated using metrics such as accuracy and loss on the validation set.
 2. Model Improvement Techniques:
-   __L2 Regularization: Introduced to prevent overfitting by penalizing large weights.
-   __Dropout: Applied to reduce the risk of overfitting by randomly dropping units during training.
-   __Hyperparameter Tuning: A grid search over various dropout rates, L2 regularization strengths, and learning rates was conducted to find the best combination of hyperparameters.
+-L2 Regularization: Introduced to prevent overfitting by penalizing large weights.
+-Dropout: Applied to reduce the risk of overfitting by randomly dropping units during training.
+-Hyperparameter Tuning: A grid search over various dropout rates, L2 regularization strengths, and learning rates was conducted to find the best combination of hyperparameters.
     
 ### Model Evaluation:
 1. Learning Curves: Generated to assess the model's learning behavior over different training set sizes.
