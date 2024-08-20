@@ -1,7 +1,7 @@
 # Breast Cancer Classification with Neural Networks
 
 ## Introduction
-Breast cancer ranks among the most widespread cancers globally, with early detection being vital for successful treatment outcomes. This project explores the use of fully connected feedforward neural networks using Python's TensorFlow library to classify breast cancer as benign or malignant based on various features derived from digitized images of a fine needle aspirate (FNA) of a breast mass. The dataset used in this project, Cancer_Classification.csv, contains features such as mean radius, texture, perimeter, area, and several other measurements that describe the characteristics of the cell nuclei present in the image. <br />
+Breast cancer ranks among the most widespread cancers globally, with early detection being vital for successful treatment outcomes. This project explores the use of fully connected feedforward neural networks using Python's `TensorFlow` library to classify breast cancer as benign or malignant based on various features derived from digitized images of a fine needle aspirate (FNA) of a breast mass. The dataset used in this project contains features such as mean radius, texture, perimeter, area, and several other measurements that describe the characteristics of the cell nuclei present in the image. <br />
 
 The project aims to build, evaluate, and optimize a neural network model that can accurately classify breast cancer cases. Various techniques such as L2 regularization, dropout, and hyperparameter tuning are employed to enhance the model's performance and robustness. <br />
 
@@ -15,7 +15,7 @@ Early and accurate classification of breast cancer is vital for determining the 
 ### Data Exploration and Preprocessing:
 • Data Loading and Summary: The dataset was loaded and inspected for basic statistics, data types, and missing values. <br />
 • Feature Engineering: A correlation matrix was used to identify and remove highly correlated features, reducing the dataset's dimensionality. <br />
-• Data Normalization: The feature data was normalized using TensorFlow's normalization layer to ensure that the model could converge faster and more effectively. <br />
+• Data Normalization: The feature data was normalized using the `TensorFlow` normalization layer to ensure that the model could converge faster and more effectively. <br />
 
 ### Model Development:
 • Baseline Model: A simple neural network was built and trained to establish a baseline for model performance. The model was evaluated using metrics such as accuracy and loss on the validation set. <br />
